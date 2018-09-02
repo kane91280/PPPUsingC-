@@ -1,0 +1,11 @@
+﻿  Chap4_Exercises.cpp
+e:\projects\upgradingskills\backend\c++\consoleapplication1\consoleapplication1\chap4_exercises.cpp(83): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+e:\projects\upgradingskills\backend\c++\consoleapplication1\consoleapplication1\chap4_exercises.cpp(106): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\projects\upgradingskills\backend\c++\consoleapplication1\consoleapplication1\chap4_exercises.cpp(252): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+e:\projects\upgradingskills\backend\c++\consoleapplication1\consoleapplication1\chap4_exercises.cpp(253): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+e:\projects\upgradingskills\backend\c++\consoleapplication1\consoleapplication1\chap4_exercises.cpp(281): warning C4018: '>=': signed/unsigned mismatch
+e:\projects\upgradingskills\backend\c++\consoleapplication1\consoleapplication1\chap4_exercises.cpp(286): warning C4244: '=': conversion from 'ptrdiff_t' to 'int', possible loss of data
+e:\projects\upgradingskills\backend\c++\consoleapplication1\consoleapplication1\chap4_exercises.cpp(333): warning C4018: '>=': signed/unsigned mismatch
+e:\projects\upgradingskills\backend\c++\consoleapplication1\consoleapplication1\chap4_exercises.cpp(366): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+  ConsoleApplication1.vcxproj -> E:\projects\UpgradingSkills\Backend\C++\ConsoleApplication1\x64\Debug\Test.exe
+  ConsoleApplication1.vcxproj -> E:\projects\UpgradingSkills\Backend\C++\ConsoleApplication1\x64\Debug\Test.pdb (Partial PDB)
